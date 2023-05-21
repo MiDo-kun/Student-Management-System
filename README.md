@@ -13,7 +13,7 @@ The main objectives of this project were to:
 - Use AJAX based HTTP requests to the server for dynamic request-response cycle.
 - Use bootstrap to achieve better responsive web design.
 - Use sweet alert for modals and notifications.
-- Use AWS RDS MySQL database to access the data.
+- Use AWS RDS MySQL database to access the table.
 
 ## Key Features
 
